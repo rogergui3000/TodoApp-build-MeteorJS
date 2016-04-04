@@ -7,3 +7,7 @@ Use it to share a single todo list with your friends. The list updates on everyo
 Learn how to build this app by following the [Meteor Tutorial](http://www.meteor.com/install).
 
 ![screenshot](screenshot.png)# TodoApp-build-MeteorJS
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rogergui3000/todoapp-build-meteorjs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
